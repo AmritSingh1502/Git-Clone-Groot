@@ -1,0 +1,20 @@
+{
+  "name": "git-clone-groot",
+  "version": "1.0.0",
+  "description": "-init\r -add files\r -commit <message>\r -log\r -show <commit> details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmritSingh1502/Git-Clone-Groot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmritSingh1502/Git-Clone-Groot/issues"
+  },
+  "homepage": "https://github.com/AmritSingh1502/Git-Clone-Groot#readme"
+}
